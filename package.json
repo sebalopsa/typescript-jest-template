@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build":"tsc --project tsconfig.prod.json",
-    "test": "jest --watch"
+    "build": "tsc --project tsconfig.prod.json",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
